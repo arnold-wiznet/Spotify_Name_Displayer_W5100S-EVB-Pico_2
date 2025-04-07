@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------------------
-# CircuitPython Library for the HD44780 with Serial Interface (PCF8574T) on W5100SEVBPICO1
+# CircuitPython Library for the HD44780 with Serial Interface (PCF8574T) on W5100SEVBPICO2
 #
 
 # Original Project:
